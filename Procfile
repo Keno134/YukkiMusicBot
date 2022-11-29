@@ -1,2 +1,2 @@
-worker: python3 -m YukkiMusicBot
-web: python3 -m YukkiMusicBot
+worker: python3 -m YukkiMusic
+web: python3 -m YukkiMusic
